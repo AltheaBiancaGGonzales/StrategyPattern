@@ -52,3 +52,7 @@ public class Character {
         }
     }
 }
+
+UML Diagram
+![image](https://github.com/user-attachments/assets/5a751f99-5673-4497-96b7-60bf671e2d76)
+
